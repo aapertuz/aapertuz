@@ -1,35 +1,33 @@
-<h1 align="center">Antonio Pertuz</h1>
-<p align="center">
-<a href="https://www.linkedin.com/in/antonio-pertuz/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+# Hey, I'm Antonio 👋
 
-<a href="mailto:antonio.pertuz@outlook.com">
-  <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
-  
-</p>
+🛠 Builder | 🤓 Philomath 
 
+Head of Product at **easymd**, building telemedicine infrastructure across Latin America. Co-founded of **Weft**, rethinking how professionals actually connect.
 
-## Hi 👋, 
-I'm Antonio Pertuz, I'm a software engineer 👨‍💻 who is passionate about mobile and web development. I'm also a self proclaimed UI/UX designer.
-I love learn everyday and I'm interested in Data Science and Machine Learning.
-🏄‍♂️. 
-
-- 🔭 I’m currently working on React Native and React Apps
-- 🌱 I've worked with Python and Node.js frameworks for backend development
-- 💬 Ask me about: tech, memes, anime
--  ⚡ Languages: JavaScript, TypeScript, Node.js, Java, Python
-
-
-> El Psy Kongroo
-
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
-⭐️ From [Pertuzdev](https://github.com/pertuzdev)
 
+### What I'm building
 
-<!---
-pertuzdev/pertuzdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Sibyl**
+🔮 A local-first Go CLI for AI-assisted development. The core idea: universal caching and reusable artifacts across AI coding workflows. Not another wrapper, a cost and context layer that sits underneath.
+
+**Weft**
+🧶 Professional connection platform. Small, values-matched groups instead of cold networking. Currently running [Chapters](https://weft.co): cohort-based sessions powered by a compatibility algorithm and AI-generated activities.
+
+**GigPilot**
+🎯 AI agent that finds freelance gigs tailored to your profile, scores each opportunity with a matching algorithm, and automates outreach so you spend time on the work, not the search.
+
+**Ascent**
+⛰️ Capital intelligence for founders. Includes "The Read", a scoring framework designed to evaluate startups without encoding pedigree or access as signal.
+
+---
+
+### Day job
+
+🩺 **Head of Product @ easymd** — Telemedicine startup operating across Latin America. I lead product while still getting my hands dirty in the codebase.
