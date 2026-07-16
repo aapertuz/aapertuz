@@ -18,7 +18,7 @@ Head of Product at **easymd**, building telemedicine infrastructure across Latin
 🔮 A local-first Go CLI for AI-assisted development. The core idea: universal caching and reusable artifacts across AI coding workflows. Not another wrapper, a cost and context layer that sits underneath.
 
 **Weft**
-🧶 Professional connection platform. Small, values-matched groups instead of cold networking. Currently running [Chapters](https://weft.co): cohort-based sessions powered by a compatibility algorithm and AI-generated activities.
+🧶 Professional connection platform. Small, values-matched groups instead of cold networking. Created cohort-based sessions powered by a compatibility algorithm and AI-generated activities.
 
 **GigPilot**
 🎯 AI agent that finds freelance gigs tailored to your profile, scores each opportunity with a matching algorithm, and automates outreach so you spend time on the work, not the search.
