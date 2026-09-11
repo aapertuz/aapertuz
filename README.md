@@ -2,7 +2,7 @@
 
 🛠 Builder | 🤓 Philomath 
 
-Head of Product at **easymd**, building telemedicine infrastructure across Latin America. Co-founded of **Weft**, rethinking how professionals actually connect.
+Mobile Lead at **easymd**, building telemedicine infrastructure across Latin America. Co-founded of **Weft**, rethinking how professionals actually connect.
 
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
