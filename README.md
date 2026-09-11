@@ -30,4 +30,4 @@ Mobile Lead at **easymd**, building telemedicine infrastructure across Latin Ame
 
 ### Day job
 
-🩺 **Head of Product @ easymd** — Telemedicine startup operating across Latin America. I lead product while still getting my hands dirty in the codebase.
+🩺 **Mobile Lead @ easymd** — Telemedicine startup operating across Latin America. I lead product while still getting my hands dirty in the codebase.
