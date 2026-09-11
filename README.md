@@ -14,7 +14,7 @@ Mobile Lead at **easymd**, building telemedicine infrastructure across Latin Ame
 
 ### What I'm building
 
-**Sibyl**
+**Corvus**
 🔮 A local-first Go CLI for AI-assisted development. The core idea: universal caching and reusable artifacts across AI coding workflows. Not another wrapper, a cost and context layer that sits underneath.
 
 **Weft**
